@@ -1,4 +1,4 @@
-#What is PandaMammyGame
+# What is PandaMammyGame
 
 - I created this game with my partner for Kaboom Game Jam and recieved over 1.5k plays and a honorary mention at the finals.
 - You can compile and play it or use Replit where it hosted to play it in your browser: https://replit.com/@BerivanUcan/Panda-Mommy
