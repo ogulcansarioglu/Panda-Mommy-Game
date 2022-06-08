@@ -9,5 +9,7 @@
 ## Examples from the game
 
 ![Image](pandamomy.PNG)
+![Image](2.PNG)
+![Image](3.PNG)
 ![kaboom](learn/kaboom.png)
 
